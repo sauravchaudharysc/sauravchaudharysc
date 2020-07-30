@@ -1,4 +1,4 @@
-![Profile](/images/eatsleep.png)
+[![Profile](/images/eatsleep.png)](https://www.facebook.com/sauravchaudharysc)
 ### Hi there 👋
 
 <!--
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...MongoDB
 - 🤔 I’m looking for help with ...Anything new
 - 💬 Ask me about ...Anything You Like
-- 📫 How to reach me: ...[Follow me](https://www.facebook.com/sauravchaudharysc)
+- 📫 How to reach me: ...[Follow me](https://www.instagram.com/sauravchaudharysc/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Still Thinking
 
