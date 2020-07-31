@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  🔭 I’m currently working on ...Jobless -->
  
-- 🌱 I’m currently learning ...Node Js
+- 🌱 I’m currently learning ...EJS
 - 👯 I’m looking to collaborate on ...MongoDB
 - 🤔 I’m looking for help with ...Anything new
 - 💬 Ask me about ...Anything You Like
