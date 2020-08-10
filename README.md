@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 
 ### <span style="color:blue">IDEs </span>
 <p align="center"> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=atom width="70" height="90"/>  <img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=atom width="80" height="70"/>  <img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=atom width="70" height="70"/> </p>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=atom width="80" height="90"/>  <img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=atom width="80" height="85"/>  <img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=atom width="70" height="70"/> </p>
 
 
 [![Saurav Chaudahry github stats](https://github-readme-stats.vercel.app/api?username=sauravchaudharysc)](https:///github.com/sauravchaudharysc/github-readme-stats)
