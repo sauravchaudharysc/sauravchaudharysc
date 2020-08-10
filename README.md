@@ -66,7 +66,7 @@ Here are some ideas to get you started:-->
     <img src="https://img.shields.io/badge/Saurav-Chaudhary-green?style=flat&logo=medium">
   </a>
   <a href="https://www.facebook.com/sauravchaudharysc">
-    <img src="https://img.shields.io/badge/Saurav-Chaudhary-blue?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/Saurav-Chaudhary-blue?style=flat&logo=facebook">
   </a>
 </p>
 
