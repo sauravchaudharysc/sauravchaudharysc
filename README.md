@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 </p>
 
 ### <span style="color:blue">IDEs </span>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original-wordmark.svg alt=atom width="150" height="150"/><img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=atom width="100" height="100"/>
+<p align="center"> <img src=https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original-wordmark.svg alt=atom width="150" height="150"/>  <img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=atom width="70" height="70"/> </p>
 
 
 [![Saurav Chaudahry github stats](https://github-readme-stats.vercel.app/api?username=sauravchaudharysc)](https:///github.com/sauravchaudharysc/github-readme-stats)
