@@ -31,19 +31,19 @@ Here are some ideas to get you started:-->
 
 ## ![#4d1300](https://via.placeholder.com/15/4d1300/000000?text=+) Developments
 - ### Web App Development
-      - ## To Do List
-      - ## News-Letter
-      - ## Budget App
+     - ## To Do List
+     - ## News-Letter
+     - ## Budget App
 - ### Game Developemnt
-      - ## Dice Game
-      - ## Drum Kit
-      - ## Simon Game
-      - ## Snake Game
+     - ## Dice Game
+     - ## Drum Kit
+     - ## Simon Game
+     - ## Snake Game
 - ### Software Development
-      - ## Image Processing
-      - ## Pdf Processing
-      - ## Password Checker
-      - ## Validation      
+     - ## Image Processing
+     - ## Pdf Processing
+     - ## Password Checker
+     - ## Validation      
       
 ## ![#802000](https://via.placeholder.com/15/802000/000000?text=+) Major Projects
 - ### Password Checker
