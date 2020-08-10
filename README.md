@@ -22,3 +22,5 @@ Here are some ideas to get you started:-->
     <img src="https://img.shields.io/badge/Saurav-Chaudhary-green?style=flat&logo=medium">
   </a>
 </p>
+
+[![Saurav Chaudahry github stats](https://github-readme-stats.vercel.app/api?username=sauravchaudharysc)](https:///github.com/sauravchaudharysc/github-readme-stats)
