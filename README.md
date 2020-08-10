@@ -29,6 +29,17 @@ Here are some ideas to get you started:-->
 <p align="left"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=MD width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=NodeJs width="100" height="100"/></p>
 
+## ![#802000](https://via.placeholder.com/15/802000/000000?text=+) Major Projects
+- ### Password Checker
+
+- ### Online School
+
+- ### News Letter
+
+- ### Image Processing
+
+   You can check my repo section for further information. [Click Me](https://github.com/sauravchaudharysc?tab=repositories)
+
 ## ![#29293d](https://via.placeholder.com/15/29293d/000000?text=+) Fine Me On
 <p>
   <a href="https://www.linkedin.com/in/sauravchaudharysc/">
