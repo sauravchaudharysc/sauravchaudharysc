@@ -14,6 +14,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Still Thinking
 
+## ![#7575a3](https://via.placeholder.com/15/1589F0/000000?text=+) Available On
 <p>
   <a href="https://www.linkedin.com/in/sauravchaudharysc/">
     <img src="https://img.shields.io/badge/Saurav-Chaudhary-blue?style=flat&logo=linkedin">
