@@ -14,3 +14,11 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Still Thinking
 
+<p>
+  <a href="https://www.linkedin.com/in/sauravchaudharysc/">
+    <img src="https://img.shields.io/badge/Saurav-Chaudhary-blue?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://medium.com/@sauravchaudharysc">
+    <img src="https://img.shields.io/badge/Saurav-Chaudhary-green?style=flat&logo=medium">
+  </a>
+</p>
