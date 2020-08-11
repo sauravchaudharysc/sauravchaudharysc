@@ -44,6 +44,7 @@ Here are some ideas to get you started:-->
      - #### Pdf Processing
      - #### Password Checker
      - #### Validation      
+     - #### Translator
       
 ## ![#802000](https://via.placeholder.com/15/802000/000000?text=+) Major Projects
 - ### Password Checker
