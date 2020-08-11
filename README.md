@@ -57,7 +57,7 @@ Here are some ideas to get you started:-->
    You can check my repo section for further information. [Click Me](https://github.com/sauravchaudharysc?tab=repositories)
 
  
-## ![#29293d](https://via.placeholder.com/15/29293d/000000?text=+) Fine Me On
+## ![#29293d](https://via.placeholder.com/15/29293d/000000?text=+) Find Me On
 <p>
   <a href="https://www.linkedin.com/in/sauravchaudharysc/">
     <img src="https://img.shields.io/badge/Saurav-Chaudhary-blue?style=flat&logo=linkedin">
