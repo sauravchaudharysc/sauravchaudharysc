@@ -27,7 +27,13 @@ Here are some ideas to get you started:-->
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=MD width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=NodeJs width="100" height="100"/></p>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;
+
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) DataBase
+<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=MD width="100" height="100"/>
+
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Open Source Development Platform  
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=NodeJs width="100" height="100"/></p>
 
 ## ![#4d1300](https://via.placeholder.com/15/4d1300/000000?text=+) Developments
 - ### Web App Development
