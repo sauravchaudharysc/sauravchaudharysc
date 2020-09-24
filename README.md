@@ -5,9 +5,9 @@
 **sauravchaudharysc/sauravchaudharysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
   
-- 🌱 I’m currently learning ...Automaton Testing
+- 🌱 I’m currently learning ...Data Visualization
 - 👯 I’m looking to collaborate on ...MongoDB
-- 🔭 Areas of Interest ... WebScraping , Automaton Testing
+- 🔭 Areas of Interest ... WebScraping , Automaton Testing , Machine Learning
 - 🤔 I’m looking for help with ...Anything new
 - 💬 Ask me about ...Anything You Like
 - 📫 How to reach me: ...[Follow me](https://www.instagram.com/sauravchaudharysc/)
