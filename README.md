@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Skills 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/java-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
 
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
