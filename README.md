@@ -22,7 +22,7 @@ Here are some ideas to get you started:-->
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
 <p align="left"> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://mpng.subpng.com/20180629/ibp/kisspng-code-blocks-computer-icons-computer-programming-block-icon-5b366c937a8115.8729093715302933955018.jpg alt=CodeBlocks width="70" height="90"/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=CodeBlocks width="70" height="90"/>
 </p>
   
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
