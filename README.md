@@ -17,12 +17,12 @@ Here are some ideas to get you started:-->
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Skills 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
 
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
 <p align="left"> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABreezeicons-apps-48-android-studio.svg&psig=AOvVaw2CQYEuGd7-u6CDUR0Tb9qJ&ust=1602745652048000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDK2_zCs-wCFQAAAAAdAAAAABAD alt=AndroidStudio width="85" height="99"/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="85" height="99"/>
 </p>
   
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
