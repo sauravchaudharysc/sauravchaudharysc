@@ -22,13 +22,13 @@ Here are some ideas to get you started:-->
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
 <p align="left"> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="85" height="99"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=Sublime width="70" height="90"/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="85" height="99"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=CodeBlocks width="90" height="100"/>
 </p>
   
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.shopify.com/s/files/1/1417/1682/articles/download_b5e66f3c-0605-405a-88ad-c15bc0572df4_1024x1024.jpeg?v=1595162531 alt=Python width="100" height="100"/>
 
 ## ![#0059b3](https://via.placeholder.com/15/0059b3/000000?text=+) DataBase
 <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=MD width="100" height="100"/>
@@ -42,6 +42,11 @@ Here are some ideas to get you started:-->
      - #### To Do List
      - #### News-Letter
      - #### Budget App
+- ### App Development
+     - #### Grocery App
+     - #### Buisness Card App
+     - #### Quiz App
+     - #### Dice App
 - ### Game Developemnt
      - #### Dice Game
      - #### Drum Kit
@@ -58,6 +63,8 @@ Here are some ideas to get you started:-->
 - ### Face Recoginition
 
 - ### Password Checker
+
+- ### Grocery App
 
 - ### Online School
 
