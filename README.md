@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...Still Thinking
 
 
-## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Skills 
+## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Languages 
 <p align="left"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="95" height="109"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=CodeBlocks width="90" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1024px-Spyder_logo.svg.png alt=Spyder width="90" height="100"/>
 </p>
   
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Skills
 
 <p align="left"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.shopify.com/s/files/1/1417/1682/articles/download_b5e66f3c-0605-405a-88ad-c15bc0572df4_1024x1024.jpeg?v=1595162531 alt=Python width="100" height="100"/>
