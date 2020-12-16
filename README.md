@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
   
 - 🌱 I’m currently learning ...Data Visualization
-- 👯 I’m looking to collaborate on ...MongoDB
+- 👯 I’m looking to collaborate on ...Flutter
 - 🔭 Areas of Interest ... WebScraping , Automaton Testing , Machine Learning
 - 🤔 I’m looking for help with ...Anything new
 - 💬 Ask me about ...Anything You Like
