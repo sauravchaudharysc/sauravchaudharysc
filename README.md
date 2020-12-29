@@ -1,6 +1,6 @@
 [![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.facebook.com/sauravchaudharysc)
 ### Hi there 👋
-
+I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer undergraduate student of MNNIT Allahabad 🚀 from India.
 <!--
 **sauravchaudharysc/sauravchaudharysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
