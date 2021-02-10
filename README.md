@@ -1,10 +1,7 @@
 [![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.facebook.com/sauravchaudharysc)
 ### Hi there 👋
 I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer undergraduate student of MNNIT Allahabad 🚀 from India.
-<!--
-**sauravchaudharysc/sauravchaudharysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
- <img align="right" alt="GIF" src="https://github.com/sauravchaudharysc/sauravchaudharysc/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/sauravchaudharysc/sauravchaudharysc/blob/master/code.gif?raw=true" width="300" height="220" />
   
 - 🌱 I’m currently learning ...Data Visualization
 - 👯 I’m looking to collaborate on ...Flutter
