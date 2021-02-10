@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Languages 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;</p>
 
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
