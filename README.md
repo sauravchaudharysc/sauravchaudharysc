@@ -57,18 +57,12 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
      - #### Translator
       
 ## ![#802000](https://via.placeholder.com/15/802000/000000?text=+) Major Projects
-- ### Face Recoginition
-
+- ### Face Recognition
 - ### Password Checker
-
 - ### Grocery App
-
 - ### Online School
-
 - ### Bill Split
-
 - ### Bank Management System
-
 - ### Recommendation System
 
    You can check my repo section for further information. [Click Me](https://github.com/sauravchaudharysc?tab=repositories)
