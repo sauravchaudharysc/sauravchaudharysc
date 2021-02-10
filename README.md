@@ -17,6 +17,11 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
 <p align="left"> 
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></p>
 
+## ![#0059b3](https://via.placeholder.com/15/0059b3/000000?text=+) DataBase
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
 <p align="left"> 
@@ -27,9 +32,6 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
 
 <p align="left"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=JS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=Python width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.shopify.com/s/files/1/1417/1682/articles/download_b5e66f3c-0605-405a-88ad-c15bc0572df4_1024x1024.jpeg?v=1595162531 alt=Python width="100" height="100"/>
-
-## ![#0059b3](https://via.placeholder.com/15/0059b3/000000?text=+) DataBase
-<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=MD width="100" height="100"/>
 
 ## ![#001a33](https://via.placeholder.com/15/001a33/000000?text=+) Open Source Development Platform 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=NodeJs width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg alt=OpenCV width="100" height="100"/>
