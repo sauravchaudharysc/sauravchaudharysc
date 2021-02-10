@@ -88,3 +88,4 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
 </p>
 
 [![Saurav Chaudahry github stats](https://github-readme-stats.vercel.app/api?username=sauravchaudharysc)](https:///github.com/sauravchaudharysc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravchaudharysc&theme=tokyonight)
