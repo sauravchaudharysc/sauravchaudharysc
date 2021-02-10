@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Languages 
 <p align="left"> 
-  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;</p>
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>&ensp;&ensp;&ensp;&ensp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></p>
 
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
