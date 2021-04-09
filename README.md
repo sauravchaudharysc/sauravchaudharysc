@@ -33,7 +33,7 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=NodeJs width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg alt=OpenCV width="100" height="100"/>
   </p>
 -->
-
+<!--
 ## ![#4d1300](https://via.placeholder.com/15/4d1300/000000?text=+) Developments
 - ### Web App Development
      - #### To Do List
@@ -55,7 +55,7 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
      - #### Password Checker
      - #### Validation      
      - #### Translator
-      
+--> <!--      
 ## ![#802000](https://via.placeholder.com/15/802000/000000?text=+) Major Projects
 - ### Face Recognition
 - ### Password Checker
@@ -64,10 +64,9 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
 - ### Bill Split
 - ### Bank Management System
 - ### Recommendation System
+ You can check my repo section for further information. [Click Me](https://github.com/sauravchaudharysc?tab=repositories)
+-->
 
-   You can check my repo section for further information. [Click Me](https://github.com/sauravchaudharysc?tab=repositories)
-
- 
 ## ![#29293d](https://via.placeholder.com/15/29293d/000000?text=+) Find Me On
 <p>
   <a href="https://www.linkedin.com/in/sauravchaudharysc/">
