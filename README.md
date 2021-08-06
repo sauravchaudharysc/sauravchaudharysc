@@ -3,7 +3,7 @@
 I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer undergraduate student of MNNIT Allahabad 🚀 from India.
  <img align="right" alt="GIF" src="https://github.com/sauravchaudharysc/sauravchaudharysc/blob/master/code.gif?raw=true" width="300" height="220" />
   
-- 🌱 I’m currently learning ...Data Visualization
+- 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ...Flutter
 - 🔭 Areas of Interest ... WebScraping , Automaton Testing , Machine Learning
 - 🤔 I’m looking for help with ...Anything new
@@ -23,7 +23,7 @@ I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) IDEs 
 
 <p align="left"> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://cdn.worldvectorlogo.com/logos/sublime-text.svg alt=Sublime width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="95" height="109"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=CodeBlocks width="90" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1024px-Spyder_logo.svg.png alt=Spyder width="90" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png alt=Octave width="90" height="100"/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png alt=Jupyter width="80" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png alt=Atom width="80" height="85"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt=Visual_Studio width="70" height="90"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png alt=AndroidStudio width="95" height="109"/>&ensp;&ensp;&ensp;&ensp;<img src=https://codeblockscoding.files.wordpress.com/2016/10/codeblocks.png alt=CodeBlocks width="90" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1024px-Spyder_logo.svg.png alt=Spyder width="90" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png alt=Octave width="90" height="100"/>
 </p>
 <!---  
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Skills
