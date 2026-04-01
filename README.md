@@ -1,16 +1,42 @@
 [![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.facebook.com/sauravchaudharysc)
-### Hi there 👋
-I'm [Saurav Chaudhary!](https://www.facebook.com/sauravchaudharysc/), a computer undergraduate student of MNNIT Allahabad 🚀 from India.
- <img align="right" alt="GIF" src="https://github.com/sauravchaudharysc/sauravchaudharysc/blob/master/code.gif?raw=true" width="300" height="220" />
-  
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ...Flutter
-- 🔭 Areas of Interest ... WebScraping , Automaton Testing , Machine Learning
-- 🤔 I’m looking for help with ...Anything new
-- 💬 Ask me about ...Anything You Like
-- 📫 How to reach me: ...[Follow me](https://www.instagram.com/sauravchaudharysc/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Still Thinking
+### Hi there 👋  
+I'm **Saurav Chaudhary**, a **graduate from IIT Bombay 🚀**, focused on building scalable AI systems and production-ready ML solutions.  
+
+<img align="right" alt="GIF" src="https://github.com/sauravchaudharysc/sauravchaudharysc/blob/master/code.gif?raw=true" width="300" height="220" />
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **LLMs, AI-powered autograding systems, and scalable ML pipelines**  
+- 🌱 Exploring **model optimization, evaluation frameworks, and production AI systems**  
+- 👯 Open to collaborate on **AI/ML systems, backend engineering, and LLM applications**  
+
+---
+
+### 🧠 Skills & Expertise
+- **Machine Learning & AI:** LLMs, Fine-tuning (CodeLlama), Siamese BERT, Model Evaluation  
+- **System Design:** Scalable ML pipelines, Distributed systems, Backend architecture  
+- **Backend & Development:** Python, C++, Java, SQL, Flask, Spring Boot  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Cloud & Tools:** AWS, OCI, Docker, Git  
+
+---
+
+### 💼 Key Work
+- 🚀 Built **TA-Buddy** — an AI-assisted autograder integrated with IIT Bombay LMS  
+- 📊 Designed end-to-end **ML training, evaluation, and inference pipelines**  
+- ⚙️ Worked on **real-world production systems** with scalable deployment  
+
+---
+
+### 💬 Let's Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/sauravchaudharysc/  
+- 💬 Ask me about **ML systems, system design, backend, or anything tech!**  
+
+---
+
+### ⚡ Fun Fact
+I turn research ideas into **production-ready systems** 
 
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Languages 
